@@ -106,7 +106,6 @@ pyRFC3339==1.1
 pytest==6.2.2
 pytest-cov==2.11.1
 python-dateutil==2.7.3
-python-debian===0.1.36ubuntu1
 python-decouple==3.1
 python3-openid==3.1.0
 pytz==2018.5
